@@ -25,3 +25,5 @@ see: https://www.mkdocs.org/getting-started/
 4. git init
 
 5. `mkdocs serve` / `mkdocs build`
+
+6. Added `about.md` file and edited `mkdocs.yml` to add navigation item: https://www.mkdocs.org/getting-started/#adding-pages
