@@ -43,3 +43,10 @@ loqui. Cavis Battum [vivacemque](#qui-per) timidis cedere [Cyclopum](#qui-per)
 in mille: tenebat gradieris frena calathosque **Veneris domus** non promissa
 illos. Nec quod aptamque sortis videre tenent *direpta* corpus maximus, mirabile
 a genitor?
+
+```python
+def main():
+    print("Hello, World!")
+if __name__ == "__main__":
+    main()
+```

@@ -2,4 +2,9 @@ site_name: MkDocs Tutorial
 nav:
   - Home: index.md
   - About: about.md
-theme: readthedocs
+theme:
+  name: readthedocs
+  # name: mkdocs
+  palette:
+    nav_style: dark
+    # highlightjs: true # Default is already true
