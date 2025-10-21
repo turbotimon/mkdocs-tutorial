@@ -29,3 +29,9 @@ see: https://www.mkdocs.org/getting-started/
 6. Added `about.md` file: https://www.mkdocs.org/getting-started/#adding-pages
 
 7. Changed theme to `readthedocs`: https://www.mkdocs.org/user-guide/choosing-your-theme/
+
+## Next steps
+
+- Markdown flavor and extensions:
+    - https://www.mkdocs.org/user-guide/configuration/#markdown_extensions
+    - https://python-markdown.github.io/extensions/
